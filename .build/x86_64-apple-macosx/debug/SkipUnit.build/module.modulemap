@@ -1,0 +1,4 @@
+module SkipUnit {
+    header "/Users/hemal/hello-skip/.build/x86_64-apple-macosx/debug/SkipUnit.build/SkipUnit-Swift.h"
+    requires objc
+}

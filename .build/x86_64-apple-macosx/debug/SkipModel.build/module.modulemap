@@ -1,0 +1,4 @@
+module SkipModel {
+    header "/Users/hemal/hello-skip/.build/x86_64-apple-macosx/debug/SkipModel.build/SkipModel-Swift.h"
+    requires objc
+}

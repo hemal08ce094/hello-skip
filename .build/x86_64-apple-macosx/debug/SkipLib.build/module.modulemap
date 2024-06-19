@@ -1,0 +1,4 @@
+module SkipLib {
+    header "/Users/hemal/hello-skip/.build/x86_64-apple-macosx/debug/SkipLib.build/SkipLib-Swift.h"
+    requires objc
+}

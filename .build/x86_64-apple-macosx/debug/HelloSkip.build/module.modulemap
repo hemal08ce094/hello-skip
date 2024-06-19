@@ -1,0 +1,4 @@
+module HelloSkip {
+    header "/Users/hemal/hello-skip/.build/x86_64-apple-macosx/debug/HelloSkip.build/HelloSkip-Swift.h"
+    requires objc
+}

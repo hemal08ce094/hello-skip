@@ -1,0 +1,4 @@
+module SkipTest {
+    header "/Users/hemal/hello-skip/.build/x86_64-apple-macosx/debug/SkipTest.build/SkipTest-Swift.h"
+    requires objc
+}
